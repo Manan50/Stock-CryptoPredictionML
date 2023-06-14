@@ -53,6 +53,6 @@ When it comes to predicting financial prices, such as stocks and cryptocurrencie
 Feel free to modify the code and experiment with different configurations to improve the model's performance. Additionally, you can explore other datasets or use different financial instruments for prediction.
 
 ## Acknowledgments
-Special thanks to AlphaVantage for providing the financial price data used in this project.
+Special thanks to [AlphaVantage](https://www.alphavantage.co/) for providing the financial price data used in this project.
 
 If you have any questions or suggestions, please feel free to reach out.
