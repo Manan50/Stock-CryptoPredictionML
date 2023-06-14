@@ -25,6 +25,7 @@ The model is trained on the prepared training data (`X_train` and `Y_train`) for
 After training, the model is used to make predictions on the test data (`X_test`). The predicted prices are then rescaled to their original range using the MinMaxScaler. To evaluate the performance of the model, both the actual and predicted prices are plotted on a graph. This allows you to visually compare the predicted prices with the ground truth. Additionally, you can calculate evaluation metrics such as Mean Squared Error (MSE) or Root Mean Squared Error (RMSE) to assess the accuracy of the predictions.
 
 ![](./BTCpriceprediction.png)
+
 Figure 1: The model can predict the trend of the actual stock prices very closely. The accuracy of the model can be enhanced by training with more data and increasing the LSTM layers.
 
 ## Usage
